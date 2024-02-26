@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../Anta/Anta-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: 100%
+  }
+
+  body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
